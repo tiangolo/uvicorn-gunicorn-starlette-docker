@@ -149,7 +149,7 @@ docker run -d --name mycontainer -p 80:80 myimage
 
 Now you have an optimized Starlette server in a Docker container. Auto-tuned for your current server (and number of CPU cores).
 
-You should be able to check it in your Docker container's URL, for example: http://192.168.99.100/
+You should be able to check it in your Docker container's URL, for example: http://192.168.99.100/ or http://127.0.0.1/ (or equivalent, using your Docker host).
 
 You will see something like:
 
