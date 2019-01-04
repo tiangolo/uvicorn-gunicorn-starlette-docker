@@ -182,13 +182,13 @@ docker run -d -p 80:80 -e MODULE_NAME="custom_app.custom_main" myimage
 
 #### `VARIABLE_NAME`
 
-The variable inside of the Python module that contains the ASGI application.
+The variable inside of the Python module that contains the Starlette application.
 
 By default:
 
 * `app`
 
-If your main Python file contained something like:
+For example, if your main Python file has something like:
 
 ```Python
 from starlette.applications import Starlette
@@ -202,7 +202,7 @@ async def homepage(request):
     return JSONResponse({"message": "Hello World!"})
 ```
 
-In this case `api` would be the variable with the "ASGI application". You could set it like:
+In this case `api` would be the variable with the Starlette application. You could set it like:
 
 ```bash
 docker run -d -p 80:80 -e VARIABLE_NAME="api" myimage
@@ -262,7 +262,7 @@ If you used the value `3` in a server with 2 CPU cores, it would run 6 worker pr
 
 You can use floating point values too.
 
-So, for example, if you have a big server (let's say, with 8 CPU cores) running several applications, and you have an ASGI application that you know won't need high performance. And you don't want to waste server resources. You could make it use `0.5` workers per CPU core. For example:
+So, for example, if you have a big server (let's say, with 8 CPU cores) running several applications, and you have a Starlette application that you know won't need high performance. And you don't want to waste server resources. You could make it use `0.5` workers per CPU core. For example:
 
 ```bash
 docker run -d -p 80:80 -e WORKERS_PER_CORE="0.5" myimage
