@@ -358,6 +358,7 @@ You can set it like:
 docker run -d -p 80:8080 -e LOG_LEVEL="warning" myimage
 ```
 
+
 ### Custom Gunicorn configuration file
 
 The image includes a default Gunicorn Python config file at `/gunicorn_conf.py`.
@@ -369,6 +370,11 @@ You can override it by including a file in:
 * `/app/gunicorn_conf.py`,
 * `/app/app/gunicorn_conf.py` or replacing the one in
 * `/gunicorn_conf.py` or replacing the one in
+
+
+## Tests
+
+All the image tags, configurations, environment variables and application options are tested.
 
 
 ## License
