@@ -21,6 +21,10 @@ client = docker.from_env()
             "Hello world! From Starlette running on Uvicorn with Gunicorn. Using Python 3.7",
         ),
         (
+            "tiangolo/uvicorn-gunicorn-starlette:latest",
+            "Hello world! From Starlette running on Uvicorn with Gunicorn. Using Python 3.7",
+        ),
+        (
             "tiangolo/uvicorn-gunicorn-starlette:python3.6-alpine3.8",
             "Hello world! From Starlette running on Uvicorn with Gunicorn in Alpine. Using Python 3.6",
         ),
