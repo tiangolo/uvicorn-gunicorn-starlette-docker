@@ -13,7 +13,7 @@
 
 **GitHub repo**: [https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker)
 
-**Docker Hub image**: [https://hub.docker.com/r/tiangolo/uvicorn-starlette-gunicorn/](https://hub.docker.com/r/tiangolo/uvicorn-starlette-gunicorn/)
+**Docker Hub image**: [https://hub.docker.com/r/tiangolo/uvicorn-gunicorn-starlette/](https://hub.docker.com/r/tiangolo/uvicorn-gunicorn-starlette/)
 
 ## Description
 
