@@ -440,6 +440,8 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+### 0.5.0
+
 * Refactor tests to use env vars and add image tags for each build date, like `tiangolo/uvicorn-gunicorn-starlette:python3.7-2019-10-15`. PR [#8](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/8).
 * Upgrade Travis. PR [#5](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/5).
 
