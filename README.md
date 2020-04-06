@@ -454,6 +454,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* Migrate local development from Pipenv to Poetry. PR [#14](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/14).
 * Add docs for custom `PRE_START_PATH` env var. PR [#13](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/13).
 
 ### 0.5.0
