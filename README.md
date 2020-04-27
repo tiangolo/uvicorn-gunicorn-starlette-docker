@@ -582,6 +582,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* Fix testing race condition by sending the request first PR [#17](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/17).
 * Update and refactor bringing all the new features from the base image. Includes:
     * Centralize, simplify, and deduplicate code and setup
     * Move CI to GitHub actions
