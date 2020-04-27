@@ -582,6 +582,20 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* Update and refactor bringing all the new features from the base image. Includes:
+    * Centralize, simplify, and deduplicate code and setup
+    * Move CI to GitHub actions
+    * Add Python 3.8 (and Alpine)
+    * Add new configs and docs:
+        * `WORKER_CLASS`
+        * `TIMEOUT`
+        * `KEEP_ALIVE`
+        * `GRACEFUL_TIMEOUT`
+        * `ACCESS_LOG`
+        * `ERROR_LOG`
+        * `GUNICORN_CMD_ARGS`
+        * `MAX_WORKERS`
+    * PR [#16](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/16).
 * Disable pip cache during installation. PR [#15](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/15).
 * Migrate local development from Pipenv to Poetry. PR [#14](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/14).
 * Add docs for custom `PRE_START_PATH` env var. PR [#13](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/13).
