@@ -17,6 +17,9 @@ client = docker.from_env()
 
 
 def verify_container(container: DockerClient, response_text: str) -> None:
+    response = requests.get("http://127.0.0.1:8000")
+    data = response.json()
+    assert data["message"] == response_text
     config_data = get_config(container)
     assert config_data["workers_per_core"] == 1
     assert config_data["use_max_workers"] is None
@@ -30,9 +33,6 @@ def verify_container(container: DockerClient, response_text: str) -> None:
     assert config_data["keepalive"] == 5
     assert config_data["errorlog"] == "-"
     assert config_data["accesslog"] == "-"
-    response = requests.get("http://127.0.0.1:8000")
-    data = response.json()
-    assert data["message"] == response_text
     logs = get_logs(container)
     assert "Checking for script in /app/prestart.sh" in logs
     assert "Running script /app/prestart.sh" in logs
