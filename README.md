@@ -630,6 +630,8 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+### 0.6.0
+
 * Add docs about installing and pinning dependencies. PR [#19](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/19).
 * Add `slim` version. PR [#18](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/18).
 * Fix testing race condition by sending the request first PR [#17](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/17).
