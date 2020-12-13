@@ -630,6 +630,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* 👷 Add GitHub Action latest-changes, update issue-manager, add funding. PR [#22](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/22) by [@tiangolo](https://github.com/tiangolo).
 ### 0.6.0
 
 * Add docs about installing and pinning dependencies. PR [#19](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/19).
