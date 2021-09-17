@@ -633,6 +633,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* 👷 Add support for Python 3.9 and Python 3.9 Alpine. PR [#36](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/36) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Update Latest Changes GitHub Action. PR [#26](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/26) by [@tiangolo](https://github.com/tiangolo).
 * 📌 Add external dependencies to get automatic Dependabot upgrade PRs. PR [#27](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/27) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add GitHub Action latest-changes, update issue-manager, add funding. PR [#22](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/22) by [@tiangolo](https://github.com/tiangolo).
