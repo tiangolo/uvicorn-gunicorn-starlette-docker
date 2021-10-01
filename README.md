@@ -702,6 +702,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* 📝 Add Kubernetes warning, when to use this image. PR [#38](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/38) by [@tiangolo](https://github.com/tiangolo).
 * ✏️ Fix typo duplicate "Note" in Readme. PR [#37](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/37) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add support for Python 3.9 and Python 3.9 Alpine. PR [#36](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/36) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Update Latest Changes GitHub Action. PR [#26](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/26) by [@tiangolo](https://github.com/tiangolo).
