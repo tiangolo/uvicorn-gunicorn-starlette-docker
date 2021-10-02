@@ -16,7 +16,7 @@
 * [`python3.7-alpine3.8` _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/blob/master/docker-images/python3.7-alpine3.8.dockerfile)
 * [`python3.6-alpine3.8` _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/blob/master/docker-images/python3.6-alpine3.8.dockerfile)
 
-To learn more about why Alpine images are discouraged for Python, read the note at the end: [🚨 Alpine Python Warning](#-alpine-python-warning).
+To learn more about why Alpine images are discouraged for Python read the note at the end: [🚨 Alpine Python Warning](#-alpine-python-warning).
 
 ---
 
