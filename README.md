@@ -703,7 +703,7 @@ But these environment variables will work the same as described above:
 
 ## 🚨 Alpine Python Warning
 
-<abbr title="Too long; didn't read">TL;DR:</abbr>You probably shouldn't use Alpine for Python projects, instead use the `slim` Docker image versions.
+In short: You probably shouldn't use Alpine for Python projects, instead use the `slim` Docker image versions.
 
 ---
 
