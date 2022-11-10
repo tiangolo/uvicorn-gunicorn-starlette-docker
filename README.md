@@ -727,6 +727,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* ⬆️ Update pytest requirement from ^5.4.1 to ^7.0.1. PR [#58](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/58) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Update isort requirement from ^4.3.21 to ^5.8.0. PR [#34](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/34) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Update black requirement from ^19.10b0 to ^20.8b1. PR [#32](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/32) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Bump actions/setup-python from 1 to 4.1.0. PR [#82](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/82) by [@dependabot[bot]](https://github.com/apps/dependabot).
