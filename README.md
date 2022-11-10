@@ -727,6 +727,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* ⬆️ Update docker requirement from ^4.2.0 to ^5.0.3. PR [#40](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/40) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Update mypy requirement from ^0.770 to ^0.971. PR [#83](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/83) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Bump actions/checkout from 2 to 3.1.0. PR [#86](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/86) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 📝 Add note to discourage Alpine with Python. PR [#39](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/39) by [@tiangolo](https://github.com/tiangolo).
