@@ -741,21 +741,50 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+
+### 0.7.0
+
+Highlights of this release:
+
+* Support for Python 3.10 and 3.11.
+* Deprecation of Python 3.6.
+    * The last Python 3.6 image tag was pushed and is available in Docker Hub, but it won't be updated or maintained anymore.
+    * The last image with a date tag is `python3.6-2022-11-25`.
+* Upgraded versions of all the dependencies.
+
+#### Features
+
+* ✨ Add support for Python 3.10 and 3.11. PR [#107](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/107) by [@tiangolo](https://github.com/tiangolo).
+* 👷 Add support for Python 3.9 and Python 3.9 Alpine. PR [#36](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/36) by [@tiangolo](https://github.com/tiangolo).
+
+#### Breaking Changes
+
+* 🔥 Deprecate and remove Python 3.6. PR [#98](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/98) by [@tiangolo](https://github.com/tiangolo).
+
+#### Upgrades
+
+* ⬆️ Upgrade Uvicorn. PR [#99](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/99) by [@tiangolo](https://github.com/tiangolo).
+* ⬆️ Bump starlette from 0.14.2 to 0.22.0 in /docker-images. PR [#90](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/90) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆️ Upgrade Uvicorn and Starlette to the latest versions that support Python 3.6. PR [#94](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/94) by [@tiangolo](https://github.com/tiangolo).
+
+#### Docs
+
+* 📝 Add note to discourage Alpine with Python. PR [#39](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/39) by [@tiangolo](https://github.com/tiangolo).
+* 📝 Add Kubernetes warning, when to use this image. PR [#38](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/38) by [@tiangolo](https://github.com/tiangolo).
+* ✏️ Fix typo duplicate "Note" in Readme. PR [#37](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/37) by [@tiangolo](https://github.com/tiangolo).
+
+#### Internal
+
 * ⬆️ Update docker requirement from ^5.0.3 to ^6.0.1. PR [#104](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/104) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Update black requirement from ^20.8b1 to ^22.10. PR [#102](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/102) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Update autoflake requirement from ^1.3.1 to ^2.0.0. PR [#101](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/101) by [@dependabot[bot]](https://github.com/apps/dependabot).
-* ✨ Add support for Python 3.10 and 3.11. PR [#107](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/107) by [@tiangolo](https://github.com/tiangolo).
 * 🔥 Remove old Travis backup. PR [#106](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/106) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Upgrade CI OS. PR [#105](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/105) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Update Dependabot config. PR [#100](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/100) by [@tiangolo](https://github.com/tiangolo).
-* ⬆️ Upgrade Uvicorn. PR [#99](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/99) by [@tiangolo](https://github.com/tiangolo).
-* ⬆️ Bump starlette from 0.14.2 to 0.22.0 in /docker-images. PR [#90](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/90) by [@dependabot[bot]](https://github.com/apps/dependabot).
-* 🔥 Deprecate and remove Python 3.6. PR [#98](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/98) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add scheduled CI. PR [#97](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/97) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Bump tiangolo/issue-manager from 0.2.0 to 0.4.0. PR [#29](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/29) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Add alls-green GitHub Action. PR [#96](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/96) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Do not run double CI for PRs, run on push only on master. PR [#95](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/95) by [@tiangolo](https://github.com/tiangolo).
-* ⬆️ Upgrade Uvicorn and Starlette to the latest versions that support Python 3.6. PR [#94](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/94) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update pytest requirement from ^5.4.1 to ^7.0.1. PR [#58](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/58) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Update isort requirement from ^4.3.21 to ^5.8.0. PR [#34](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/34) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Update black requirement from ^19.10b0 to ^20.8b1. PR [#32](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/32) by [@dependabot[bot]](https://github.com/apps/dependabot).
@@ -763,13 +792,10 @@ All the image tags, configurations, environment variables and application option
 * ⬆️ Update docker requirement from ^4.2.0 to ^5.0.3. PR [#40](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/40) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Update mypy requirement from ^0.770 to ^0.971. PR [#83](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/83) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Bump actions/checkout from 2 to 3.1.0. PR [#86](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/86) by [@dependabot[bot]](https://github.com/apps/dependabot).
-* 📝 Add note to discourage Alpine with Python. PR [#39](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/39) by [@tiangolo](https://github.com/tiangolo).
-* 📝 Add Kubernetes warning, when to use this image. PR [#38](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/38) by [@tiangolo](https://github.com/tiangolo).
-* ✏️ Fix typo duplicate "Note" in Readme. PR [#37](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/37) by [@tiangolo](https://github.com/tiangolo).
-* 👷 Add support for Python 3.9 and Python 3.9 Alpine. PR [#36](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/36) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Update Latest Changes GitHub Action. PR [#26](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/26) by [@tiangolo](https://github.com/tiangolo).
 * 📌 Add external dependencies to get automatic Dependabot upgrade PRs. PR [#27](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/27) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add GitHub Action latest-changes, update issue-manager, add funding. PR [#22](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/22) by [@tiangolo](https://github.com/tiangolo).
+
 ### 0.6.0
 
 * Add docs about installing and pinning dependencies. PR [#19](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/19).
