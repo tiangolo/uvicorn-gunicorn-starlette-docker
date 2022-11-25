@@ -741,6 +741,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* ⬆️ Update mypy requirement from ^0.971 to ^0.991. PR [#103](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/103) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
 ### 0.7.0
 
