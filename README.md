@@ -737,6 +737,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* 🔥 Remove old Travis backup. PR [#106](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/106) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Upgrade CI OS. PR [#105](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/105) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Update Dependabot config. PR [#100](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/100) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Upgrade Uvicorn. PR [#99](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/99) by [@tiangolo](https://github.com/tiangolo).
