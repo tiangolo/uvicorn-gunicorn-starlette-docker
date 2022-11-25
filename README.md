@@ -2,8 +2,8 @@
 
 ## Supported tags and respective `Dockerfile` links
 
-* [`python3.11`, `latest` _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/blob/master/docker-images/python3.11.
-* [`python3.10`, _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/blob/master/docker-images/python3.10.
+* [`python3.11`, `latest` _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/blob/master/docker-images/python3.11.dockerfile)
+* [`python3.10`, _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/blob/master/docker-images/python3.10.dockerfile)
 * [`python3.9`, _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/blob/master/docker-images/python3.9.dockerfile)
 * [`python3.8`, _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/blob/master/docker-images/python3.8.dockerfile)
 * [`python3.7`, _(Dockerfile)_](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/blob/master/docker-images/python3.7.dockerfile)
