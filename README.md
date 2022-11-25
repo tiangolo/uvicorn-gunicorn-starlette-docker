@@ -737,6 +737,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* ⬆️ Upgrade Uvicorn. PR [#99](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/99) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Bump starlette from 0.14.2 to 0.22.0 in /docker-images. PR [#90](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/90) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 🔥 Deprecate and remove Python 3.6. PR [#98](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/98) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add scheduled CI. PR [#97](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/97) by [@tiangolo](https://github.com/tiangolo).
