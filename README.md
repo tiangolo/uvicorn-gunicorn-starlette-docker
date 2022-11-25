@@ -727,6 +727,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* 👷 Add alls-green GitHub Action. PR [#96](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/96) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Do not run double CI for PRs, run on push only on master. PR [#95](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/95) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Upgrade Uvicorn and Starlette to the latest versions that support Python 3.6. PR [#94](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/94) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update pytest requirement from ^5.4.1 to ^7.0.1. PR [#58](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/58) by [@dependabot[bot]](https://github.com/apps/dependabot).
