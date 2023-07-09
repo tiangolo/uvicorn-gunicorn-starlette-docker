@@ -741,6 +741,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* ⬆️ Bump starlette from 0.22.0 to 0.25.0 in /docker-images. PR [#116](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/116) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Update mypy requirement from ^0.991 to ^1.0. PR [#114](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/114) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Update black requirement from ^22.10 to ^23.1. PR [#113](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/113) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Bump actions/checkout from 3.1.0 to 3.3.0. PR [#112](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/112) by [@dependabot[bot]](https://github.com/apps/dependabot).
