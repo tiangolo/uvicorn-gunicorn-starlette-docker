@@ -741,6 +741,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* ⬆️ Update black requirement from ^22.10 to ^23.1. PR [#113](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/113) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Bump actions/checkout from 3.1.0 to 3.3.0. PR [#112](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/112) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Update Latest Changes token. PR [#119](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/119) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add GitHub Action for Docker Hub description. PR [#108](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/108) by [@tiangolo](https://github.com/tiangolo).
