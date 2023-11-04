@@ -753,6 +753,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Internal
 
+* 👷 Update dependabot. PR [#136](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/136) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Update latest-changes. PR [#135](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/135) by [@tiangolo](https://github.com/tiangolo).
 
 ### 0.7.0
