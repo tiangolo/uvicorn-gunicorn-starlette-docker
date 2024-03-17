@@ -749,6 +749,10 @@ All the image tags, configurations, environment variables and application option
 * 👷 Add GitHub Action for Docker Hub description. PR [#108](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/108) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update mypy requirement from ^0.971 to ^0.991. PR [#103](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/103) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
+#### Refactors
+
+* 🔥 Remove Alpine support. PR [#155](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/155) by [@tiangolo](https://github.com/tiangolo).
+
 #### Upgrades
 
 * ⬆️ Bump gunicorn from 20.1.0 to 21.2.0. PR [#128](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/128) by [@dependabot[bot]](https://github.com/apps/dependabot).
