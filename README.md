@@ -753,6 +753,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Internal
 
+* ⬆ Bump actions/checkout from 3.3.0 to 4.1.1. PR [#137](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/137) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Update dependabot. PR [#136](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/136) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Update latest-changes. PR [#135](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/135) by [@tiangolo](https://github.com/tiangolo).
 
