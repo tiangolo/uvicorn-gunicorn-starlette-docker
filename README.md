@@ -749,6 +749,10 @@ All the image tags, configurations, environment variables and application option
 * 👷 Add GitHub Action for Docker Hub description. PR [#108](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/108) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update mypy requirement from ^0.971 to ^0.991. PR [#103](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/103) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
+#### Features
+
+* ✨ Add support for multiarch builds, including ARM (e.g. Mac M1). PR [#156](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/156) by [@tiangolo](https://github.com/tiangolo).
+
 #### Refactors
 
 * 🔥 Remove Alpine support. PR [#155](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/155) by [@tiangolo](https://github.com/tiangolo).
