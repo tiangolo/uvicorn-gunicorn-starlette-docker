@@ -761,6 +761,10 @@ All the image tags, configurations, environment variables and application option
 
 * ⬆️ Bump gunicorn from 20.1.0 to 21.2.0. PR [#128](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/128) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
+#### Docs
+
+* 📝 Update test badge in `README.md`. PR [#157](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/157) by [@alejsdev](https://github.com/alejsdev).
+
 #### Internal
 
 * ⬆ Bump actions/setup-python from 4 to 5. PR [#141](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/141) by [@dependabot[bot]](https://github.com/apps/dependabot).
