@@ -741,6 +741,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Internal
 
+* 🔧 Add GitHub templates for discussions and issues, and security policy. PR [#167](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/167) by [@alejsdev](https://github.com/alejsdev).
 * 🔧 Update `latest-changes.yml`. PR [#158](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/158) by [@alejsdev](https://github.com/alejsdev).
 
 ### 0.8.0
