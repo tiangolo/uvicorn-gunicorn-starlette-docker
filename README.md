@@ -739,6 +739,10 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+#### Internal
+
+* 🔧 Update `latest-changes.yml`. PR [#158](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/158) by [@alejsdev](https://github.com/alejsdev).
+
 ### 0.8.0
 
 #### Features
