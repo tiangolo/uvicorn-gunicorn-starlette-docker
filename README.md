@@ -739,6 +739,8 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+### 0.8.0
+
 #### Features
 
 * ✨ Add support for multiarch builds, including ARM (e.g. Mac M1). PR [#156](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/156) by [@tiangolo](https://github.com/tiangolo).
