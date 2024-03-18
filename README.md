@@ -739,16 +739,6 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
-* ⬆️ Bump starlette from 0.22.0 to 0.27.0 in /docker-images. PR [#118](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/118) by [@dependabot[bot]](https://github.com/apps/dependabot).
-* ⬆️ Bump starlette from 0.22.0 to 0.25.0. PR [#117](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/117) by [@dependabot[bot]](https://github.com/apps/dependabot).
-* ⬆️ Bump starlette from 0.22.0 to 0.25.0 in /docker-images. PR [#116](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/116) by [@dependabot[bot]](https://github.com/apps/dependabot).
-* ⬆️ Update mypy requirement from ^0.991 to ^1.0. PR [#114](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/114) by [@dependabot[bot]](https://github.com/apps/dependabot).
-* ⬆️ Update black requirement from ^22.10 to ^23.1. PR [#113](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/113) by [@dependabot[bot]](https://github.com/apps/dependabot).
-* ⬆️ Bump actions/checkout from 3.1.0 to 3.3.0. PR [#112](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/112) by [@dependabot[bot]](https://github.com/apps/dependabot).
-* 👷 Update Latest Changes token. PR [#119](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/119) by [@tiangolo](https://github.com/tiangolo).
-* 👷 Add GitHub Action for Docker Hub description. PR [#108](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/108) by [@tiangolo](https://github.com/tiangolo).
-* ⬆️ Update mypy requirement from ^0.971 to ^0.991. PR [#103](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/103) by [@dependabot[bot]](https://github.com/apps/dependabot).
-
 #### Features
 
 * ✨ Add support for multiarch builds, including ARM (e.g. Mac M1). PR [#156](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/156) by [@tiangolo](https://github.com/tiangolo).
@@ -759,6 +749,9 @@ All the image tags, configurations, environment variables and application option
 
 #### Upgrades
 
+* ⬆️ Bump starlette from 0.22.0 to 0.27.0 in /docker-images. PR [#118](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/118) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆️ Bump starlette from 0.22.0 to 0.25.0. PR [#117](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/117) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆️ Bump starlette from 0.22.0 to 0.25.0 in /docker-images. PR [#116](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/116) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Bump gunicorn from 20.1.0 to 21.2.0. PR [#128](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/128) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
 #### Docs
@@ -767,6 +760,12 @@ All the image tags, configurations, environment variables and application option
 
 #### Internal
 
+* ⬆️ Update mypy requirement from ^0.991 to ^1.0. PR [#114](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/114) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆️ Update black requirement from ^22.10 to ^23.1. PR [#113](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/113) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* ⬆️ Bump actions/checkout from 3.1.0 to 3.3.0. PR [#112](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/112) by [@dependabot[bot]](https://github.com/apps/dependabot).
+* 👷 Update Latest Changes token. PR [#119](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/119) by [@tiangolo](https://github.com/tiangolo).
+* 👷 Add GitHub Action for Docker Hub description. PR [#108](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/108) by [@tiangolo](https://github.com/tiangolo).
+* ⬆️ Update mypy requirement from ^0.971 to ^0.991. PR [#103](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/103) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/setup-python from 4 to 5. PR [#141](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/141) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump peter-evans/dockerhub-description from 3 to 4. PR [#151](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/151) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump tiangolo/issue-manager from 0.4.0 to 0.5.0. PR [#153](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/153) by [@dependabot[bot]](https://github.com/apps/dependabot).
