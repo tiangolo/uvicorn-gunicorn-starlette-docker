@@ -739,6 +739,10 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+#### Upgrades
+
+* ⬆️ Bump gunicorn from 21.2.0 to 22.0.0 in /docker-images. PR [#169](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/169) by [@dependabot[bot]](https://github.com/apps/dependabot).
+
 #### Internal
 
 * ⬆ Bump peter-evans/dockerhub-description from 3 to 4. PR [#163](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/163) by [@dependabot[bot]](https://github.com/apps/dependabot).
