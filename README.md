@@ -741,6 +741,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Internal
 
+* ⬆ Bump docker/build-push-action from 2 to 5. PR [#162](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/162) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump docker/login-action from 1 to 3. PR [#161](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/161) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump docker/setup-buildx-action from 1 to 3. PR [#160](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/160) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/setup-python from 4 to 5. PR [#159](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/159) by [@dependabot[bot]](https://github.com/apps/dependabot).
