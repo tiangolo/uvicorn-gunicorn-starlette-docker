@@ -741,6 +741,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Internal
 
+* ⬆ Bump docker/setup-buildx-action from 1 to 3. PR [#160](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/160) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/setup-python from 4 to 5. PR [#159](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/159) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 🔧 Add GitHub templates for discussions and issues, and security policy. PR [#167](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/167) by [@alejsdev](https://github.com/alejsdev).
 * 🔧 Update `latest-changes.yml`. PR [#158](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/158) by [@alejsdev](https://github.com/alejsdev).
