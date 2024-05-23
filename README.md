@@ -741,6 +741,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Internal
 
+* ⬆ Bump peter-evans/dockerhub-description from 3 to 4. PR [#163](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/163) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump docker/build-push-action from 2 to 5. PR [#162](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/162) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump docker/login-action from 1 to 3. PR [#161](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/161) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump docker/setup-buildx-action from 1 to 3. PR [#160](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/160) by [@dependabot[bot]](https://github.com/apps/dependabot).
