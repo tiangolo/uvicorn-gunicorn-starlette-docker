@@ -739,6 +739,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Upgrades
 
+* ⬆ Bump gunicorn from 22.0.0 to 23.0.0. PR [#181](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/181) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Bump gunicorn from 21.2.0 to 22.0.0 in /docker-images. PR [#169](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/169) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
 #### Docs
