@@ -741,6 +741,10 @@ All the image tags, configurations, environment variables and application option
 
 * ⬆️ Bump gunicorn from 21.2.0 to 22.0.0 in /docker-images. PR [#169](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/169) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
+#### Docs
+
+* 📝 Deprecate this Docker image, use Uvicorn with `--workers` ✨. PR [#183](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/183) by [@tiangolo](https://github.com/tiangolo).
+
 #### Internal
 
 * 👷 Update issue-manager.yml GitHub Action permissions. PR [#178](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/178) by [@tiangolo](https://github.com/tiangolo).
