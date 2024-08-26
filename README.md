@@ -748,6 +748,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Internal
 
+* 👷 Update `latest-changes` GitHub Action. PR [#185](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/185) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump docker/build-push-action from 5 to 6. PR [#173](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/173) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Update issue-manager.yml GitHub Action permissions. PR [#178](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/178) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump peter-evans/dockerhub-description from 3 to 4. PR [#163](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/163) by [@dependabot[bot]](https://github.com/apps/dependabot).
