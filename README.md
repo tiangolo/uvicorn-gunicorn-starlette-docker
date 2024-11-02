@@ -742,6 +742,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Upgrades
 
+* Bump starlette from 0.27.0 to 0.40.0 in /docker-images. PR [#196](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/196) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump uvicorn[standard] from 0.20.0 to 0.32.0. PR [#197](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/197) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 🔥 Drop support for Python 3.7 and 3.8. PR [#200](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/200) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump gunicorn from 22.0.0 to 23.0.0. PR [#181](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/181) by [@dependabot[bot]](https://github.com/apps/dependabot).
