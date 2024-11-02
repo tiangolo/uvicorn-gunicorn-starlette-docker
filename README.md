@@ -755,6 +755,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Internal
 
+* 🔥 Remove old unused files. PR [#201](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/201) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump tiangolo/issue-manager from 0.5.0 to 0.5.1. PR [#188](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/188) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Update `issue-manager.yml`. PR [#187](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/187) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Update `latest-changes` GitHub Action. PR [#185](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/185) by [@tiangolo](https://github.com/tiangolo).
