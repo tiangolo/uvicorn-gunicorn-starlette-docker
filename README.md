@@ -742,6 +742,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Upgrades
 
+* ⬆ Bump starlette from 0.46.0 to 0.47.0. PR [#219](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/219) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump uvicorn[standard] from 0.34.0 to 0.34.3. PR [#220](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/220) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump starlette from 0.41.2 to 0.46.0. PR [#213](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/213) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump uvicorn[standard] from 0.32.0 to 0.34.0. PR [#205](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/205) by [@dependabot[bot]](https://github.com/apps/dependabot).
