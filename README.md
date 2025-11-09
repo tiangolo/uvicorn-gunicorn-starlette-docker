@@ -742,6 +742,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Upgrades
 
+* 📌 Upgrade Starlette pin to `0.49.3`, the last version to support Python 3.9. PR [#238](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/238) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump uvicorn[standard] from 0.35.0 to 0.38.0. PR [#234](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/234) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump starlette from 0.47.3 to 0.49.1 in /docker-images. PR [#235](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/235) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump starlette from 0.47.1 to 0.47.3. PR [#226](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/226) by [@dependabot[bot]](https://github.com/apps/dependabot).
