@@ -762,6 +762,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Internal
 
+* ⬆ Bump tiangolo/issue-manager from 0.5.1 to 0.6.0. PR [#232](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/232) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump peter-evans/dockerhub-description from 4 to 5. PR [#233](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/233) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/labeler from 5 to 6. PR [#228](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/228) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/setup-python from 5 to 6. PR [#227](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/227) by [@dependabot[bot]](https://github.com/apps/dependabot).
