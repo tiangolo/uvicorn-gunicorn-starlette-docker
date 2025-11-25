@@ -768,6 +768,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Internal
 
+* 👷 Upgrade actions/checkout from v5 to v6. PR [#242](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/242) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Upgrade `latest-changes` GitHub Action and pin `actions/checkout@v5`. PR [#241](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/241) by [@tiangolo](https://github.com/tiangolo).
 * 🔥 Drop support for Python 3.9. PR [#239](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/239) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump tiangolo/issue-manager from 0.5.1 to 0.6.0. PR [#232](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/232) by [@dependabot[bot]](https://github.com/apps/dependabot).
