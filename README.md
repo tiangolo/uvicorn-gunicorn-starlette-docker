@@ -769,6 +769,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Internal
 
+* 🔥 Remove configs now in central GitHub repo. PR [#260](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/260) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump the github-actions group with 4 updates. PR [#257](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/257) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Update Dependabot. PR [#253](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/253) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Upgrade actions/checkout from v5 to v6. PR [#242](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/242) by [@tiangolo](https://github.com/tiangolo).
