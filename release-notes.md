@@ -31,6 +31,7 @@
 
 ### Internal
 
+* 📝 Refactor release notes, move to its own file. PR [#276](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/276) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Update issue-manager to 0.7.1. PR [#275](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/275) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update issue-manager to 0.7.0. PR [#274](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/274) by [@tiangolo](https://github.com/tiangolo).
 * 🔒️ Add zizmor workflow security checks. PR [#272](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/272) by [@tiangolo](https://github.com/tiangolo).
@@ -198,4 +199,3 @@ Highlights of this release:
 ## 0.1.0
 
 * Add support for `/app/prestart.sh`.
-
