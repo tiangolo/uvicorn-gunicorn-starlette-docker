@@ -31,6 +31,7 @@
 
 ### Internal
 
+* ⬆️ Update latest-changes to 0.6.1. PR [#282](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/282) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Simplify pull request workflow triggers. PR [#278](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/278) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Update setup-python pin comment to 6.2.0. PR [#277](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/277) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Refactor release notes, move to its own file. PR [#276](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/276) by [@tiangolo](https://github.com/tiangolo).
