@@ -31,6 +31,7 @@
 
 ### Internal
 
+* 🔧 Fix Docker action pin version comments. PR [#287](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/287) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Fix latest-changes checkout target. PR [#286](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/286) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update issue-manager to 0.8.1. PR [#284](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/284) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update latest-changes to 0.6.1. PR [#282](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/282) by [@tiangolo](https://github.com/tiangolo).
