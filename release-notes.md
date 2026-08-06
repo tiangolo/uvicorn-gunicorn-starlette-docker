@@ -31,6 +31,7 @@
 
 ### Internal
 
+* 🔧 Fix Zizmor version comments. PR [#293](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/293) by [@tiangolo](https://github.com/tiangolo).
 * 🔥 Remove the old Latest Changes workflow. PR [#292](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/292) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Upgrade latest-changes to 0.7.1. PR [#291](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/291) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Fix Docker action pin version comments. PR [#287](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/287) by [@tiangolo](https://github.com/tiangolo).
