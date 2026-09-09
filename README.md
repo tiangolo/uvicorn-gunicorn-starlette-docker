@@ -202,13 +202,14 @@ COPY ./app /app
 ```Python
 from starlette.applications import Starlette
 from starlette.responses import JSONResponse
+from starlette.routing import Route
 
-app = Starlette()
 
-
-@app.route("/")
 async def homepage(request):
     return JSONResponse({"message": "Hello World!"})
+
+
+app = Starlette(routes=[Route("/", homepage)])
 ```
 
 * You should now have a directory structure like:
@@ -327,13 +328,14 @@ For example, if your main Python file has something like:
 ```Python
 from starlette.applications import Starlette
 from starlette.responses import JSONResponse
+from starlette.routing import Route
 
-api = Starlette()
 
-
-@api.route("/")
 async def homepage(request):
     return JSONResponse({"message": "Hello World!"})
+
+
+api = Starlette(routes=[Route("/", homepage)])
 ```
 
 In this case `api` would be the variable with the Starlette application. You could set it like:
