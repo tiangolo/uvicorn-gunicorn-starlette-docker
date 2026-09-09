@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Fixes
+
+* 🐛 Fix bundled app compatibility with Starlette 1.x. PR [#307](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/307) by [@tiangolo](https://github.com/tiangolo).
+
 ### Upgrades
 
 * ⬆ Bump gunicorn from 26.0.0 to 26.2.0. PR [#305](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/305) by [@dependabot[bot]](https://github.com/apps/dependabot).
