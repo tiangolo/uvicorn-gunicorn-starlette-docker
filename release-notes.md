@@ -8,6 +8,7 @@
 
 ### Upgrades
 
+* ⬆ Bump starlette from 0.50.0 to 1.6.0. PR [#301](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/301) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump gunicorn from 26.0.0 to 26.2.0. PR [#305](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/305) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump uvicorn from 0.52.0 to 0.52.4. PR [#302](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/302) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump uvicorn from 0.49.0 to 0.52.0. PR [#294](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/294) by [@dependabot[bot]](https://github.com/apps/dependabot).
