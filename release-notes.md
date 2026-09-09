@@ -32,6 +32,7 @@
 
 ### Internal
 
+* ⬆ Bump the github-actions group across 1 directory with 3 updates. PR [#306](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/306) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Migrate automatic labels to Latest Changes. PR [#296](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/296) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Remove legacy label check. PR [#295](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/295) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump the github-actions group across 1 directory with 7 updates. PR [#290](https://github.com/tiangolo/uvicorn-gunicorn-starlette-docker/pull/290) by [@dependabot[bot]](https://github.com/apps/dependabot).
